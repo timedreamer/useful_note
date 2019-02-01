@@ -35,6 +35,8 @@ This post is to organize papers I found that used *time-course* method to study 
 
 12. [Lasy-Seq: a high-throughput library preparation method for RNA-Seq and its application in the analysis of plant responses to fluctuating temperatures](https://www.biorxiv.org/content/early/2018/12/20/463596). 2018, bioRxiv.
 
+13. [Time-Series Transcriptomics Reveals That AGAMOUS-LIKE22 Affects Primary Metabolism and Developmental Processes in Drought-Stressed Arabidopsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4790877/). 2016, Plant Cell.
+
 
 ## Method
 
