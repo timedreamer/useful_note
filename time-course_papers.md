@@ -1,7 +1,12 @@
----
-title: "Time-course papers"
-author: "Ji Huang"
-date: '2019-01-16'
+# Time-course papers
+
+
+author: Ji Huang
+
+date: 2019-01-16
+
+last modified date: 2019-02-01
+
 ---
 
 *Time* is a fascinating new dimension of gene regulation. With the decrease of sequencing cost, we are now able to capture gene expression changes through time. This leads to a new area of the big **Gene Regulation** question. We are able to find early activated genes and later activated genes and see how they change over time.
@@ -36,6 +41,8 @@ This post is to organize papers I found that used *time-course* method to study 
 12. [Lasy-Seq: a high-throughput library preparation method for RNA-Seq and its application in the analysis of plant responses to fluctuating temperatures](https://www.biorxiv.org/content/early/2018/12/20/463596). 2018, bioRxiv.
 
 13. [Time-Series Transcriptomics Reveals That AGAMOUS-LIKE22 Affects Primary Metabolism and Developmental Processes in Drought-Stressed Arabidopsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4790877/). 2016, Plant Cell.
+
+14. [Comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes](https://www.pnas.org/content/early/2019/02/01/1817621116). 2018, PNAS.
 
 
 ## Method
