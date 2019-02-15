@@ -54,3 +54,7 @@ This post is to organize papers I found that used *time-course* method to study 
 3. [Comparative analysis of differential gene expression tools for RNA sequencing time course data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbx115/4364840). 2017, Briefings in Bioinformatics.
 
 4. [Limma](https://bioconductor.org/packages/release/bioc/html/limma.html). R package. Section **9.6.2 Many time points**. It explains how to add *spline* model to the design to find DEGs. This *spline* idea can be easily applied to [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) and [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html).
+
+5. [Time Series Experiment Design Under One-Shot Sampling: The Importance of Condition Diversity](https://www.biorxiv.org/content/10.1101/537548v1). 2019, bioRxiv.
+
+a
