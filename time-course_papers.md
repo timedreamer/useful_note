@@ -5,7 +5,7 @@ author: Ji Huang
 
 date: 2019-01-16
 
-last modified date: 2019-02-01
+last modified date: 2019-02-15
 
 ---
 
@@ -56,5 +56,3 @@ This post is to organize papers I found that used *time-course* method to study 
 4. [Limma](https://bioconductor.org/packages/release/bioc/html/limma.html). R package. Section **9.6.2 Many time points**. It explains how to add *spline* model to the design to find DEGs. This *spline* idea can be easily applied to [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) and [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html).
 
 5. [Time Series Experiment Design Under One-Shot Sampling: The Importance of Condition Diversity](https://www.biorxiv.org/content/10.1101/537548v1). 2019, bioRxiv.
-
-a
