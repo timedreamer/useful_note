@@ -4,7 +4,7 @@ Author: Ji Huang
 
 Date: 2018-12-04
 
-Last modified date: 2018-12-04
+Last modified date: 2019-02-19
 
 
 1. [A glucocorticoid‐mediated transcriptional induction system in transgenic plants](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-313X.1997.11030605.x). Plant Journal, 1997. This is the first paper described the GR induction system in plant. It has been widely used in Arabidopsis and be modified to other plants too. It has **993** citations according to Google Scholar. The construct figure is: ![Imgur](https://i.imgur.com/R7hbDub.png)
@@ -21,4 +21,11 @@ Last modified date: 2018-12-04
 4. [MultiSite Gateway-Compatible Cell Type-Specific Gene-Inducible System for Plants](http://www.plantphysiol.org/content/170/2/627#ref-6). Plant Physiology, 2016.
 
 5. [A Comprehensive Toolkit for Inducible, Cell Type-Specific Gene Expression in Arabidopsis](http://www.plantphysiol.org/content/178/1/40). Plant Physiology, 2018.
+
+
+# General transformation systems
+
+1. [A Versatile Zero Background T-Vector System for Gene Cloning and Functional Genomics](http://www.plantphysiol.org/content/150/3/1111). Plant Physiology, 2009. An inexpensive system using TA cloning. Vectors available at TAIR.
+
+
 
