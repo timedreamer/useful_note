@@ -26,6 +26,8 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 
 8. [P1][8]. [GRMZM2G084799][15].
 
+9. [CCA1][19]. [GRMZM2G014902][20].
+
 
 # Other methods:
 
@@ -55,6 +57,9 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 [16]:https://www.nature.com/articles/s41467-018-06977-6
 [17]:https://www.cell.com/cell/fulltext/S0092-8674(16)30481-0#secsectitle0015
 [18]:http://planttfdb.cbi.pku.edu.cn/index.php?sp=Zma
+[19]:https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006197#sec016
+[20]:https://www.maizegdb.org/gene_center/gene/GRMZM2G014902
+
 
 
 
