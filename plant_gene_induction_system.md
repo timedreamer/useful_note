@@ -4,7 +4,7 @@ Author: Ji Huang
 
 Date: 2018-12-04
 
-Last modified date: 2019-02-19
+Last modified date: 2019-03-14
 
 
 1. [A glucocorticoid‐mediated transcriptional induction system in transgenic plants](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-313X.1997.11030605.x). Plant Journal, 1997. This is the first paper described the GR induction system in plant. It has been widely used in Arabidopsis and be modified to other plants too. It has **993** citations according to Google Scholar. The construct figure is: ![Imgur](https://i.imgur.com/R7hbDub.png)
@@ -26,6 +26,10 @@ Last modified date: 2019-02-19
 # General transformation systems
 
 1. [A Versatile Zero Background T-Vector System for Gene Cloning and Functional Genomics](http://www.plantphysiol.org/content/150/3/1111). Plant Physiology, 2009. An inexpensive system using TA cloning. Vectors available at TAIR.
+
+2. [Gateway‐compatible vectors for plant functional genomics and proteomics](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-313X.2005.02617.x). Plant Journal, 2006. The famous pEarleyGate series. Vectors available at TAIR.
+
+3. [Improved Gateway Binary Vectors: High-Performance Vectors for Creation of Fusion Constructs in Transgenic Analysis of Plants](https://www.jstage.jst.go.jp/article/bbb/71/8/71_70216/_article). Biochemistry & Molecular Biology Communications, 2007. The pGWB series. Vectors available at [addgene](https://www.addgene.org/browse/article/18131/).
 
 
 
