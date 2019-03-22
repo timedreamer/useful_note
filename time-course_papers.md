@@ -44,6 +44,8 @@ This post is to organize papers I found that used *time-course* method to study 
 
 14. [Comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes](https://www.pnas.org/content/early/2019/02/01/1817621116). 2018, PNAS.
 
+15. [Differentially Regulated Orthologs in Sorghum and the Subgenomes of Maize](http://www.plantcell.org/content/29/8/1938). 2017, Plant Cell.
+
 
 ## Method
 
