@@ -5,7 +5,7 @@ author: Ji Huang
 
 date: 2019-01-16
 
-last modified date: 2019-02-15
+last modified date: 2019-04-08
 
 ---
 
@@ -45,6 +45,12 @@ This post is to organize papers I found that used *time-course* method to study 
 14. [Comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes](https://www.pnas.org/content/early/2019/02/01/1817621116). 2018, PNAS.
 
 15. [Differentially Regulated Orthologs in Sorghum and the Subgenomes of Maize](http://www.plantcell.org/content/29/8/1938). 2017, Plant Cell.
+
+16. [Network Walking charts transcriptional dynamics of nitrogen signaling by integrating validated and predicted genome-wide interactions](https://www.nature.com/articles/s41467-019-09522-1). 2019, Nature communication.
+
+17. [Temporal transcriptional logic of dynamic regulatory networks underlying nitrogen signaling and use in plants](https://www.pnas.org/content/115/25/6494). 2018, PNAS.
+
+18. [Predictive network modeling of the high-resolution dynamic plant transcriptome in response to nitrate](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-r123). 2010, Genome Biology.
 
 
 ## Method
