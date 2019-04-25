@@ -27,6 +27,7 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 8. [P1][8]. [GRMZM2G084799][15].
 
 9. [CCA1][19]. [GRMZM2G014902][20].
+10. [bZIP4][21]. [Zm00001d018178][22]. The processed ChIP data is on [figureshare][23], but no raw data could be found on SRA.
 
 
 # Other methods:
@@ -59,6 +60,9 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 [18]:http://planttfdb.cbi.pku.edu.cn/index.php?sp=Zma
 [19]:https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006197#sec016
 [20]:https://www.maizegdb.org/gene_center/gene/GRMZM2G014902
+[21]: http://www.plantphysiol.org/content/178/2/753.long#sec-16
+[22]: https://www.maizegdb.org/gene_center/gene/bzip4
+[23]: https://figshare.com/articles/ZmbZIP4-ChIPseq-input-1_wiggle_tar_gz/6225806/2
 
 
 
