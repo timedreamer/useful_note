@@ -10,29 +10,30 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 
 # TFs.
 
-1. [KN1][1]. [GRMZM2G017087][9].
+1. [KN1][1]. [GRMZM2G017087][9]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38487). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39161)
 
-2. [FEA4][2]. [Zm00001d037317][10].
+2. [FEA4][2]. [Zm00001d037317][10]. [RNA-Seq + ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61954).
 
-3. [RA1][3]. [GRMZM2G003927][11].
+3. [RA1][3]. [GRMZM2G003927][11]. [RNA-Seq + ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51050)
 
-4. [O2][4]. [GRMZM2G015534][12].
+4. [O2][4]. [GRMZM2G015534][12]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61830). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63991).
 
-5. [O11][5]. [Zm00001d003677][13].
+5. [O11][5]. [Zm00001d003677][13]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97422). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102051).
 
-6. [GIF1][6]. [Zm00001d033905][14].
+6. [GIF1][6]. [Zm00001d033905][14]. [RNA-Seq + ChIP-Seq](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP131943).
 
-7. [AN3][7]. This gene is the same as GIF1, except a different name.
+7. [AN3][7]. This gene is the same as GIF1, except a different name. [ChIP-Seq](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=ERP106997).
 
-8. [P1][8]. [GRMZM2G084799][15].
+8. [P1][8]. [GRMZM2G084799][15]. [RNA-Seq pericarp](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38413). [RNA-Seq silk](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38414). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38587).
 
-9. [CCA1][19]. [GRMZM2G014902][20].
+9. [CCA1][19]. [GRMZM2G014902][20]. [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67655).
+
 10. [bZIP4][21]. [Zm00001d018178][22]. The processed ChIP data is on [figureshare][23], but no raw data could be found on SRA.
 
 
 # Other methods:
 
-1. Maize [ARF DAP-Seq][16]. This paper described **14** ZmARFs using DAP-Seq.
+1. Maize [ARF DAP-Seq][16]. This paper described **14** ZmARFs using DAP-Seq. [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111857).
 2. [DAP-Seq Cell paper][17] described **ZmARF29**, but I'm not sure what gene it is.
 3. [PlantTFDB][18] has some predicted TF binding sites projected by orthology.
 
