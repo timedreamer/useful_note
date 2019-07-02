@@ -54,6 +54,8 @@ This post is to organize papers I found that used *time-course* method to study 
 
 19. [Jasmonate-mediated wound signalling promotes plant regeneration](https://www.nature.com/articles/s41477-019-0408-x#ref-CR11). 2019. Nature Plant. It has a time-course dataset: *Columbia-0 (Col-0) leaf explants before culture (that is, t0), at 10min, 30min, 1h, 2h, 4h, 8h and 12h after detachment*.
 
+20. [High Temporal-Resolution Transcriptome Landscape of Early Maize Seed Development](http://www.plantcell.org/content/31/5/974). 2019. Plant Cell. 31 time points.
+
 
 ## Method
 
