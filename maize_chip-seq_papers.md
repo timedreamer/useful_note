@@ -4,9 +4,9 @@ Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2019-03-18
+Last modified date: 2019-08-28
 
-I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional factors**.
+I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone marks**.
 
 # TFs.
 
@@ -29,6 +29,29 @@ I documented maize ChIP-Seq dataset I can find, focusing on **transcriptional fa
 9. [CCA1][19]. [GRMZM2G014902][20]. [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67655).
 
 10. [bZIP4][21]. [Zm00001d018178][22]. The processed ChIP data is on [figureshare][23], but no raw data could be found on SRA.
+
+# Epigenomes
+
+1. Shoot and Root: H3K4me3, H3K9ac, H3K27me3, H3K36me3, smallRNA, Methylation and mRNA. [Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize, 2009 Plant Cell](http://www.plantcell.org/content/21/4/1053). GEO:[GSE15286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15286).
+
+2. Shoot and Root from B73, Mo17, hybrid: H3K4me3, H3K9ac, H3K36me3, smallRNA, Methylation and mRNA. [Conservation and divergence of transcriptomic and epigenomic variation in maize hybrids, 2013 Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-6-r57). GEO: [GSE43142](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43142)
+
+3. B73 ear BS-Seq, H3K27me2 and H3K9me2. [Accessible DNA and Relative Depletion of H3K9me2 at Maize Loci Undergoing RNA-Directed DNA Methylation, 2014 Plant Cell](http://www.plantcell.org/content/26/12/4903). SRP: [SRP047420](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA261802)
+
+4. B73 seedling H3K9me2. [Genomic Distribution of H3K9me2 and DNA Methylation in a Maize Genome, 2014 PloS One](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4133378/). SRP: [SRP043372](https://www.ncbi.nlm.nih.gov/sra/?term=SRP043372)
+
+5. B73 seedling third leaf H3K4me3. [RNA-directed DNA methylation enforces boundaries between heterochromatin and euchromatin in the maize genome, 2015 PNAS](https://www.pnas.org/content/112/47/14728.long). SRA: [SRX1073672](https://www.ncbi.nlm.nih.gov/sra/SRX1073672/)
+
+6. B73 seed H4K5ac. [Genome-Wide Mapping of Targets of Maize Histone Deacetylase HDA101 Reveals Its Function and Regulatory Mechanism during Seed Development, 2016 Plant Cell](http://www.plantcell.org/content/28/3/629). SRA: [SRP067369](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA305809).
+
+7. B73/Mo17 hybrid endosperm H3K27me3. [Genome-wide high resolution parental-specific DNA and histone methylation maps uncover patterns of imprinting regulation in maize, 2014 Genome Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875858/). SRA: [SRP011991 ](https://www.ncbi.nlm.nih.gov/sra?term=SRP011991).
+
+8. B73 husk V2 H3K9ac. [Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize, 2017 Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4). GEO: [GSE94251](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94251). DNaseI-Seq: [GSE94291](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94291).
+
+9. B73 leaf protoplast BS-Seq, mRNA, *in situ* Hi-C, ATAC-Seq, H3K4me3, H3K27me3, H3K27ac. [3D Chromatin Architecture of Large Plant Genomes Determined by Local A/B Compartments, 2017 Molecular Plant](https://www.sciencedirect.com/science/article/pii/S1674205217303398?via%3Dihub). SRA: [PRJNA391551](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA391551/).
+
+
+
 
 
 # Other methods:
