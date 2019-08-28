@@ -50,8 +50,7 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 
 9. B73 leaf protoplast BS-Seq, mRNA, *in situ* Hi-C, ATAC-Seq, H3K4me3, H3K27me3, H3K27ac. [3D Chromatin Architecture of Large Plant Genomes Determined by Local A/B Compartments, 2017 Molecular Plant](https://www.sciencedirect.com/science/article/pii/S1674205217303398?via%3Dihub). SRA: [PRJNA391551](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA391551/).
 
-
-
+10. Long-range interaction, B73 seedling shoot. [Chromatin interaction maps reveal genetic regulation for quantitative traits in maize](https://www.nature.com/articles/s41467-019-10602-5#Sec9). [Long-range interactions between proximal and distal regulatory regions in maize](https://www.nature.com/articles/s41467-019-10603-4#Sec11).
 
 
 # Other methods:
