@@ -30,6 +30,8 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 
 10. [bZIP4][21]. [Zm00001d018178][22]. The processed ChIP data is on [figureshare][23], but no raw data could be found on SRA.
 
+11. [zmm28 ][24]. [Zm00001d022088_P002][25]. ChIP-Seq and RNA-Seq data at [SRP166189][26]
+
 # Epigenomes
 
 1. Shoot and Root: H3K4me3, H3K9ac, H3K27me3, H3K36me3, smallRNA, Methylation and mRNA. [Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize, 2009 Plant Cell](http://www.plantcell.org/content/21/4/1053). GEO:[GSE15286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15286).
@@ -86,7 +88,9 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 [21]: http://www.plantphysiol.org/content/178/2/753.long#sec-16
 [22]: https://www.maizegdb.org/gene_center/gene/bzip4
 [23]: https://figshare.com/articles/ZmbZIP4-ChIPseq-input-1_wiggle_tar_gz/6225806/2
-
+[24]: https://www.pnas.org/content/early/2019/10/29/1902593116
+[25]: https://www.maizegdb.org/gene_center/gene/Zm00001d022088
+[26]: https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP166189
 
 
 
