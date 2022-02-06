@@ -4,11 +4,11 @@ Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2019-08-28
+Last modified date: 2022-02-06
 
 I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone marks**.
 
-# TFs.
+## TFs
 
 1. [KN1][1]. [GRMZM2G017087][9]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38487). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39161)
 
@@ -20,19 +20,25 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 
 5. [O11][5]. [Zm00001d003677][13]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97422). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102051).
 
-6. [GIF1][6]. [Zm00001d033905][14]. [RNA-Seq + ChIP-Seq](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP131943).
+6. [GIF1][6]. [Zm00001d033905][14]. [RNA-Seq + ChIP-Seq](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP131943). Immature tassel.
 
 7. [AN3][7]. This gene is the same as GIF1, except a different name. [ChIP-Seq](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=ERP106997).
 
 8. [P1][8]. [GRMZM2G084799][15]. [RNA-Seq pericarp](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38413). [RNA-Seq silk](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38414). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38587).
 
-9. [CCA1][19]. [GRMZM2G014902][20]. [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67655).
+9. [CCA1][19]. [GRMZM2G014902][20]. [Zm00001d049543](https://www.maizegdb.org/gene_center/gene/Zm00001d049543). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67655). Aerial tissues.
 
 10. [bZIP4][21]. [Zm00001d018178][22]. The processed ChIP data is on [figureshare][23], but no raw data could be found on SRA.
 
 11. [zmm28 ][24]. [Zm00001d022088_P002][25]. ChIP-Seq and RNA-Seq data at [SRP166189][26]
+12. [tb1 - teosinte branched1][27]. [Zm00001d033673](https://www.maizegdb.org/gene_center/gene/Zm00001d033673). ChIP-Seq and RNA-Seq data at [SRP182814][28]. Tiller buds.
+13. [gt1 - grassy tillers1][27]. [Zm00001d028129](https://www.maizegdb.org/gene_center/gene/Zm00001d028129). ChIP-Seq and RNA-Seq data at [SRP182814][28]. Tiller buds.
+14. [ns1 - narrow sheath1](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA633509). [Zm00001d004889](https://www.maizegdb.org/gene_center/gene/Zm00001d004889). ChIP-Seq and RNA-Seq data at [SRP262137](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP262137&o=acc_s%3Aa). I didn't find the published paper.
+15. [ZmM16 ChIP-seq using ear primordia tissue](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP272724). I didn't find the published paper. Maybe [Zm00001d042618](https://www.maizegdb.org/gene_center/gene/Zm00001d042618)
+16. [ZmABI19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136913/). [Zm00001d011712](https://www.maizegdb.org/gene_center/gene/Zm00001d011712). ChIP-Seq and RNA-Seq data in seeds at [SRP259231](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP259231)
+17. [dlf1 - delayed flowering1](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772). [Zm00001d022613](https://www.maizegdb.org/gene_center/gene/Zm00001d022613). ChIP-Seq and RNA-Seq data in SAM at [PRJNA616067](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA616067)
 
-# Epigenomes
+## Epigenomes
 
 1. Shoot and Root: H3K4me3, H3K9ac, H3K27me3, H3K36me3, smallRNA, Methylation and mRNA. [Genome-Wide and Organ-Specific Landscapes of Epigenetic Modifications and Their Relationships to mRNA and Small RNA Transcriptomes in Maize, 2009 Plant Cell](http://www.plantcell.org/content/21/4/1053). GEO:[GSE15286](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15286).
 
@@ -55,14 +61,16 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 10. Long-range interaction, B73 seedling shoot. [Chromatin interaction maps reveal genetic regulation for quantitative traits in maize](https://www.nature.com/articles/s41467-019-10602-5#Sec9). [Long-range interactions between proximal and distal regulatory regions in maize](https://www.nature.com/articles/s41467-019-10603-4#Sec11).
 
 
-# Other methods:
+## Other methods:
 
 1. Maize [ARF DAP-Seq][16]. This paper described **14** ZmARFs using DAP-Seq. [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111857).
 2. [DAP-Seq Cell paper][17] described **ZmARF29**, but I'm not sure what gene it is.
 3. [PlantTFDB][18] has some predicted TF binding sites projected by orthology.
 
 
+## RNA-Seq
 
+1. [fascicled ear1](https://www.pnas.org/content/118/7/e2019218118). Not cloned yet.
 
 
 [1]:http://www.genesdev.org/cgi/pmidlookup?view=long&pmid=22855831
@@ -91,6 +99,8 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 [24]: https://www.pnas.org/content/early/2019/10/29/1902593116
 [25]: https://www.maizegdb.org/gene_center/gene/Zm00001d022088
 [26]: https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP166189
+[27]: https://www.nature.com/articles/s41467-019-11774-w
+[28]: https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP182814
 
 
 
