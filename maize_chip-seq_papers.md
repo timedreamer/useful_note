@@ -66,6 +66,7 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 1. Maize [ARF DAP-Seq][16]. This paper described **14** ZmARFs using DAP-Seq. [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111857).
 2. [DAP-Seq Cell paper][17] described **ZmARF29**, but I'm not sure what gene it is.
 3. [PlantTFDB][18] has some predicted TF binding sites projected by orthology.
+4. [104 TFs protoplast ChIP](https://www.nature.com/articles/s41467-020-18832-8). Data is in ConnecTF-Maize already.
 
 
 ## RNA-Seq
