@@ -4,7 +4,7 @@ Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2022-02-25
+Last modified date: 2022-03-02
 
 I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone marks**.
 
@@ -62,6 +62,9 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 
 11. Stable unmethylated DNA regions in maize (also rice, barley, sorghum and brachy), and maize root ATAC-Seq. [Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes](https://www.pnas.org/content/117/38/23991). The maize UMR bed file is **Supplemental Dataset S3**. The rice UMR bed file is **Supplemental Dataset S9**. Download from [here](https://www.pnas.org/content/suppl/2020/09/02/2010250117.DCSupplemental). Genome version: Zma-AGPv4;  H. vulgare L-Ensemble_v42; S. bicolor v3.1.1-Phytozome12;  O. sativa v7.0-Phytozome11;  B.distachyon v3.1-Phytozome12.
 
+12. A valuable resource including RNA-seq, Hi-C, ATAC-seq, ChIP-seq (for H3K4me3, H3K9ac and H3K27me3) and Bisulfite-seq was generated for mapping chromatin interactions and epigenome states in maize ear and tassel (B73). [NCBI-PRJNA599454](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA599454). [Paper-3D genome architecture coordinates trans and cis regulation of differentially expressed ear and tassel genes in maize, 2020, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02063-7#availability-of-data-and-materials)
+
+13. One MethylC-seq, six RNA-seq, 30 ChIP-seq, 37 DAP-seq, six ATAC-seq, one Hi-C, two HiChIP, and three STARR-seq samples of maize (B73). [NCBI-GSE120304](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120304). [Paper-Widespread long-range cis-regulatory elements in the maize genome, 2019, NP](https://www.nature.com/articles/s41477-019-0547-0)
 
 ## Other methods:
 
