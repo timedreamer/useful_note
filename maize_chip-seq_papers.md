@@ -4,7 +4,7 @@ Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2022-03-02
+Last modified date: 2022-03-12
 
 I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone marks**.
 
@@ -66,12 +66,15 @@ I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone m
 
 13. One MethylC-seq, six RNA-seq, 30 ChIP-seq, 37 DAP-seq, six ATAC-seq, one Hi-C, two HiChIP, and three STARR-seq samples of maize (B73). [NCBI-GSE120304](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120304). [Paper-Widespread long-range cis-regulatory elements in the maize genome, 2019, NP](https://www.nature.com/articles/s41477-019-0547-0)
 
+14. Protoplast 104 TF ChIP Seq and epigenome. [Paper-Reconstructing the maize leaf regulatory network using ChIP-seq data of 104 transcription factors, 2020, NC](https://www.nature.com/articles/s41467-020-18832-8) .ChIP peaks at [GSE137972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137972). The ChIP data is in ConnecTF also. For ATAC, H3K27me3, H3K9ac, Pol2 ChIP, data at [SRP183225](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP183225&o=assay_type_s%3Aa%3Bacc_s%3Aa). Input controls: [SRR12321692](https://trace.ncbi.nlm.nih.gov/Traces/sra?run=SRR12321692) and [SRR12321693](https://trace.ncbi.nlm.nih.gov/Traces/sra?run=SRR12321693)
+
+15. Maize MOA-Seq in ear. [Paper-The native cistrome and sequence motif families of the maize ear, 2021, PloS Genetics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009689). Data is mapped to B73v3 and B73v5 and is available in the Supplementary material.
+
 ## Other methods:
 
 1. Maize [ARF DAP-Seq][16]. This paper described **14** ZmARFs using DAP-Seq. [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111857). It also include four tissue ATAC-Seq data, but I didn't find them on SRA/GEO.
 2. [DAP-Seq Cell paper][17] described **ZmARF29**, but I'm not sure what gene it is.
 3. [PlantTFDB][18] has some predicted TF binding sites projected by orthology.
-4. [104 TFs protoplast ChIP](https://www.nature.com/articles/s41467-020-18832-8). Data is in ConnecTF-Maize already.
 
 
 ## RNA-Seq
