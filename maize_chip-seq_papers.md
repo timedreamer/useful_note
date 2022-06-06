@@ -1,12 +1,12 @@
-# Maize ChIP-Seq papers
+# Maize TF ChIP-Seq/RNA-Seq papers
 
 Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2022-03-12
+Last modified date: 2022-06-06
 
-I documented maize ChIP-Seq dataset I can find, including **TF** and **Histone marks**.
+I documented maize ChIP-Seq or RNA-Seq dataset I can find, including **TF** and **Histone marks**.
 
 ## TFs
 
