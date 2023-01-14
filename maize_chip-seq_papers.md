@@ -4,7 +4,7 @@ Author: Ji Huang
 
 Date: 2019-03-18
 
-Last modified date: 2022-06-06
+Last modified date: 2023-01-14
 
 I documented maize ChIP-Seq or RNA-Seq dataset I can find, including **TF** and **Histone marks**.
 
@@ -34,7 +34,7 @@ I documented maize ChIP-Seq or RNA-Seq dataset I can find, including **TF** and 
 12. [tb1 - teosinte branched1][27]. [Zm00001d033673](https://www.maizegdb.org/gene_center/gene/Zm00001d033673). ChIP-Seq and RNA-Seq data at [SRP182814][28]. Tiller buds.
 13. [gt1 - grassy tillers1][27]. [Zm00001d028129](https://www.maizegdb.org/gene_center/gene/Zm00001d028129). ChIP-Seq and RNA-Seq data at [SRP182814][28]. Tiller buds.
 14. [ns1 - narrow sheath1](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA633509). [Zm00001d004889](https://www.maizegdb.org/gene_center/gene/Zm00001d004889). ChIP-Seq and RNA-Seq data at [SRP262137](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP262137&o=acc_s%3Aa). I didn't find the published paper.
-15. [ZmM16 ChIP-seq using ear primordia tissue](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP272724). I didn't find the published paper. Maybe [Zm00001d042618](https://www.maizegdb.org/gene_center/gene/Zm00001d042618)
+15. [ZmM16 ChIP-seq using ear primordia tissue](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP272724). [Paper](https://www.sciencedirect.com/science/article/pii/S1534580720310212). Maybe [Zm00001d042618](https://www.maizegdb.org/gene_center/gene/Zm00001d042618)
 16. [ZmABI19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136913/). [Zm00001d011712](https://www.maizegdb.org/gene_center/gene/Zm00001d011712). ChIP-Seq and RNA-Seq data in seeds at [SRP259231](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP259231)
 17. [dlf1 - delayed flowering1](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772). [Zm00001d022613](https://www.maizegdb.org/gene_center/gene/Zm00001d022613). ChIP-Seq and RNA-Seq data in SAM at [PRJNA616067](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA616067)
 
